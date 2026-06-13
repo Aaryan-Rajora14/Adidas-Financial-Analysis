@@ -70,6 +70,8 @@ By completing and exploring this project, you will learn:
 
 **Happy Learning!** 🚀  
 
+Adidas - Live the Game!
+
 This project is designed to help students master **Sales Analytics Dashboard Creation** in Power BI using engaging Adidas retail data.
 Feel free to fork the repository, customize it, and share your improved versions with the community!
 
