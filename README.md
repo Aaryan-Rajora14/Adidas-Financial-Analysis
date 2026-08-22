@@ -76,4 +76,4 @@ This project is designed to help students master **Sales Analytics Dashboard Cre
 Feel free to fork the repository, customize it, and share your improved versions with the community!
 
 Made with ❤️ for aspiring data analysts and BI developers.
-New Dashboard is Coming!!
+New Nvidia Dashboard is Coming!!
