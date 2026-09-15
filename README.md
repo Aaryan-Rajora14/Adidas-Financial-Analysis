@@ -1,5 +1,7 @@
 # Adidas Sales Dashboard - Power BI Project
 
+Nike is better
+
 <img width="968" height="543" alt="IMG 1" src="https://github.com/user-attachments/assets/250e7f08-eff1-4803-98ec-65d25bfdf9db" />
 
 
